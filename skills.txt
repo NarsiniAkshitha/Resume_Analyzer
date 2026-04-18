@@ -1,0 +1,69 @@
+# Programming Languages
+python
+java
+c
+c++
+c#
+javascript
+typescript
+go
+ruby
+kotlin
+swift
+
+# Web Development
+html
+css
+react
+angular
+vue
+nodejs
+express
+django
+flask
+spring boot
+
+# Databases
+sql
+mysql
+postgresql
+mongodb
+oracle
+sqlite
+firebase
+
+# Data Science & AI
+machine learning
+deep learning
+data analysis
+data science
+nlp
+computer vision
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+
+# Cloud & DevOps
+aws
+azure
+gcp
+docker
+kubernetes
+jenkins
+git
+github
+gitlab
+ci/cd
+
+# Tools & Others
+rest api
+graphql
+linux
+bash
+power bi
+tableau
+excel
+hadoop
+spark
