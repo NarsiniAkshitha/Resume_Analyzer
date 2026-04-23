@@ -23,10 +23,14 @@ def main():
 
     # Match
     matched, missing, skill_score = match_skills(resume_skills, job_skills)
-
+    tfidf_score = match_tfidf(resume_text, jd_text)
+    final_score=0.6*skill_score+0.4*tfidf_score
     print("Matched Skills:", matched)
     print("Missing Skills:", missing)
-    print("Skill Match Score:", skill_score)
+    #print("Matched skill Score:",skill_score)
+    #print("tfidf score",tfidf_score)
+    print("Final Match Score:", final_score)
+    
 
 if __name__ == "__main__":
     main()
